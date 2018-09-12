@@ -11,6 +11,7 @@ gem 'shotgun'
 gem 'pry'
 gem 'rack-flash3'
 gem 'tux'
+gem "rails"
 
 group :test do
   gem 'rspec'
